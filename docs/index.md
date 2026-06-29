@@ -72,6 +72,7 @@ To jest strona główna kursu C# dla początkujących. Materiały dotyczą głó
 
 
 
+
 ## Test Mermaid
 
 ```mermaid
@@ -81,4 +82,4 @@ flowchart TD
     B -- false --> D[Pomiń]
     C --> E[Koniec]
     D --> E
-
+```
