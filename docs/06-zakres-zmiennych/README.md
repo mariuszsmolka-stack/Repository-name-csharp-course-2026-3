@@ -8,5 +8,5 @@ Planowane lekcje:
 * [Zmienne lokalne](02-zmienne-lokalne.md)
 * [Parametry metod a zmienne lokalne](03-parametry-a-zmienne-lokalne.md)
 * [Zmienne w pętlach](04-zmienne-w-petlach.md)
-* Przesłanianie zmiennych
+* [Przesłanianie zmiennych](05-przeslanianie-zmiennych.md)
 * Najczęstsze błędy
