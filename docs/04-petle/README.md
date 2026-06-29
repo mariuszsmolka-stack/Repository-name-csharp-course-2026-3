@@ -8,8 +8,9 @@ W tym dziale poznasz powtarzanie instrukcji. Pętle pozwalają wykonać ten sam 
 - [do while](02-do-while.md)
 - [for](03-for.md)
 - [Tablice jednowymiarowe - podstawy](04-tablice-jednowymiarowe.md)
-- [Licznik i akumulator](05-licznik-akumulator.md)
-- [break i continue](06-break-continue.md)
+- [Pętla for po tablicy](05-for-po-tablicy.md)
+- [Licznik i akumulator](06-licznik-akumulator.md)
+- [break i continue](07-break-continue.md)
 
 ## Po tym dziale
 
