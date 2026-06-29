@@ -82,8 +82,8 @@ To jest strona główna kursu C# dla początkujących. Materiały dotyczą głó
 - [Tablice, listy i przekazywanie danych](07-tablice-listy-referencje/README.md)
 - [Tablice dwuwymiarowe](07-tablice-listy-referencje/01-tablice-dwuwymiarowe.md)
 - [Tablice wielowymiarowe](07-tablice-listy-referencje/02-tablice-wielowymiarowe.md)
-- [List<int>](07-tablice-listy-referencje/03-list-int.md)
-- [List<string>](07-tablice-listy-referencje/04-list-string.md)
+- [List&lt;int&gt;](07-tablice-listy-referencje/03-list-int.md)
+- [List&lt;string&gt;](07-tablice-listy-referencje/04-list-string.md)
 - [List a tablica](07-tablice-listy-referencje/05-list-a-tablica.md)
 - [Przekazywanie parametrów przez wartość](07-tablice-listy-referencje/06-przekazywanie-parametrow-przez-wartosc.md)
 - [ref i out](07-tablice-listy-referencje/07-ref-i-out.md)
@@ -99,4 +99,5 @@ To jest strona główna kursu C# dla początkujących. Materiały dotyczą głó
 ## 09 - Projekty
 
 - [Wprowadzenie](09-projekty/README.md)
+
 
