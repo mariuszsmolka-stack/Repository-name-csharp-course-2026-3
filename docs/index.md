@@ -57,3 +57,7 @@ To jest strona główna kursu C# dla początkujących. Materiały dotyczą głó
 - [break i continue](04-petle/10-break-continue.md)
 
 
+
+## 05 - Projekty
+
+- [Wprowadzenie](05-projekty/README.md)
