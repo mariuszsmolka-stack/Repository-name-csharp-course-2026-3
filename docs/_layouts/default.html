@@ -35,12 +35,12 @@
     </div>
 
     <div id="main_content_wrap" class="outer">
-      <div class="inner course-layout">
+      <div class="course-shell">
         <aside class="course-sidebar" aria-label="Nawigacja kursu">
           {% include sidebar.html %}
         </aside>
 
-        <main id="main_content" class="main-content course-content" role="main">
+        <main id="main_content" class="main-content course-main" role="main">
           {% include breadcrumbs.html %}
           {{ content }}
           {% include lesson-nav.html %}

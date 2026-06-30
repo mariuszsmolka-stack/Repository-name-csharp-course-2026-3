@@ -11,18 +11,4 @@ To jest strona główna kursu C# dla początkujących. Materiały dotyczą głó
 
 ## Od czego zacząć
 
-Rozpocznij od działu **01 - Podstawy** i przechodź przez lekcje po kolei. Spis rozdziałów i lekcji znajduje się w panelu bocznym.
-
-## Dla kogo jest kurs
-
-Kurs jest przeznaczony dla uczniów rozpoczynających naukę C# oraz osób, które chcą uporządkować podstawy programowania konsolowego.
-
-## Zakres
-
-Materiały obejmują pierwszy program, zmienne, typy danych, operatory, wejście i wyjście w konsoli, instrukcje warunkowe, pętle, tablice, metody oraz wstęp do obiektów.
-
-## Informacje organizacyjne
-
-- [Licencja](licencja.md)
-- [Organizacja kursu](00-organizacja/README.md)
-- [Status kursu](00-organizacja/status-kursu.md)
+[Przejdź do pierwszej lekcji](01-podstawy/01-pierwszy-program.md)
