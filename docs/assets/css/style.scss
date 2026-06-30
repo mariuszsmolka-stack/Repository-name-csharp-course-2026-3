@@ -81,6 +81,15 @@
   margin-bottom: 0.75rem;
 }
 
+.mobile-toc a {
+  color: #2879a8;
+  text-decoration: none;
+}
+
+.mobile-toc a:hover {
+  text-decoration: underline;
+}
+
 .course-main {
   min-width: 0;
 }
@@ -209,10 +218,6 @@
   .course-sidebar {
     position: static;
     max-height: none;
-    margin-bottom: 1.5rem;
-  }
-
-  .desktop-toc {
     display: none;
   }
 

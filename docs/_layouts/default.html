@@ -57,9 +57,6 @@
         .course-sidebar {
           position: static;
           max-height: none;
-        }
-
-        .desktop-toc {
           display: none;
         }
 
@@ -82,8 +79,14 @@
     <div id="main_content_wrap" class="outer">
       <div class="course-shell">
         <aside class="course-sidebar" aria-label="Nawigacja kursu">
+          <a class="course-sidebar__home{% if page.path == 'index.md' %} is-active{% endif %}" href="{{ '/' | relative_url }}">Spis treści</a>
           {% include sidebar.html %}
         </aside>
+
+        <details class="mobile-toc">
+          <summary>Spis treści</summary>
+          {% include sidebar.html %}
+        </details>
 
         <main id="main_content" class="main-content course-main" role="main">
           {% include breadcrumbs.html %}
